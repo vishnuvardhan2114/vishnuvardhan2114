@@ -1,7 +1,7 @@
 <!-- Profile README for vishnuvardhan2114 -->
 
 <p align="center">
-  <img src="https://github.com/vishnuvardhan2114/vishnuvardhan2114/raw/main/assets/banner.png" alt="Vishnuvardhan M Banner" width="80%">
+  <img src="assets/banner.png" alt="MERN stack developer git hub banner" style="width:100%;">
 </p>
 
 <h1 align="center">Hey, I'm Vishnuvardhan M <img src="https://cdn.jsdelivr.net/gh/vishnuvardhan2114/gh-assets@main/wave.gif" width="30"/></h1>
